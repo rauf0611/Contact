@@ -1,0 +1,10 @@
+C:\Users\okazi\source\repos\contact\contact\bin\Debug\contact.exe.config
+C:\Users\okazi\source\repos\contact\contact\bin\Debug\contact.exe
+C:\Users\okazi\source\repos\contact\contact\bin\Debug\contact.pdb
+C:\Users\okazi\source\repos\contact\contact\obj\Debug\contactlist.csprojAssemblyReference.cache
+C:\Users\okazi\source\repos\contact\contact\obj\Debug\contact.Form1.resources
+C:\Users\okazi\source\repos\contact\contact\obj\Debug\contact.Properties.Resources.resources
+C:\Users\okazi\source\repos\contact\contact\obj\Debug\contactlist.csproj.GenerateResource.cache
+C:\Users\okazi\source\repos\contact\contact\obj\Debug\contactlist.csproj.CoreCompileInputs.cache
+C:\Users\okazi\source\repos\contact\contact\obj\Debug\contact.exe
+C:\Users\okazi\source\repos\contact\contact\obj\Debug\contact.pdb
